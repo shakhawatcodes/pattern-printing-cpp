@@ -21,7 +21,9 @@ ABCD
 
 ## 💻 Concept
 Nested loops
+
 ASCII character conversion
+
 Basic pattern logic
 ## 🚀 Run
 g++ main.cpp -o pattern
